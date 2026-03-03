@@ -1,0 +1,9 @@
+1771900844.118Created order: id=1, price=100.03, volume=10
+1771900844.118Sent order: id=1, latency=26000 ns
+1771900844.421Sent order: id=2, latency=1000 ns
+1771900844.421Created order: id=2, price=99.95, volume=10
+1771900844.723Created order: id=3, price=99.92, volume=10
+1771900844.723Sent order: id=3, latency=0 ns
+1771900845.024Sent order: id=4, latency=0 ns
+1771900845.329Sent order: id=5, latency=0 ns
+1771900845.629Created order: id=6, price=99.89, volume=10
